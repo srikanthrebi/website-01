@@ -1,0 +1,305 @@
+.container {
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+}
+.div1 {
+  margin: -26px -9px 0 -8px;
+}
+.navi {
+  margin-top: -25px;
+}
+.navi p {
+  margin-top: 0px;
+  margin-top: 20px;
+}
+.navi1 {
+  background-color: #ccc;
+  line-height: 80px;
+  display: flex;
+  justify-content: flex-end;
+  padding: 12px 50px 0px 0px;
+  font-size: 23px;
+}
+.navi1 a {
+  margin-right: 45px;
+  text-decoration: none;
+  color: black;
+  margin-top: 20px;
+}
+.navi img {
+  margin-bottom: -100px;
+  margin-left: 100px;
+}
+.div13 {
+  padding: 0px 0px 264px 0px;
+  background-color: #2c1f39;
+}
+.para {
+  display: flex;
+}
+.div13 p {
+  color: #ffff;
+  width: 617px;
+  font-size: 81px;
+  margin: 148px 146px 0 102px;
+}
+.div13 h1 {
+  color: #fff;
+  font-size: 20px;
+}
+.para1 p {
+  font-size: 20px;
+  margin: 115px 51px -172px 98px;
+}
+.paraimg img {
+  float: right;
+  background-color: #2c1f39;
+  margin: -370px 15px 0 0;
+}
+.moniter {
+  margin: 115px 0 33px 101px;
+}
+.moni1 {
+  display: inline-block;
+  margin-left: -200px;
+}
+.moni2 {
+  display: flex;
+  margin: 0px 0px 0px -20px;
+}
+.moni3 {
+  display: flex;
+  margin: 0px 0px 0px -20px;
+}
+.moni1 img {
+  margin: 0px 115px 0px 200px;
+  width: 170px;
+}
+.moni2 p {
+  padding: 0px 69px 0px 0;
+  width: 445px;
+  margin: 30px 0px 30px 0;
+  font-family: revert;
+  font-size: 42px;
+  font-weight: 800;
+}
+.moni3 h6 {
+  margin: 4px 70px 2px 6px;
+  font-size: 21px;
+  line-height: 26.5px;
+  color: #9b8d8d;
+}
+.running {
+  margin: 60px 0px;
+}
+.running1 {
+  display: flex;
+}
+.run1 {
+  background-color: black;
+}
+.run1 img {
+  width: 650px;
+
+  margin-left: -50px;
+}
+.run13 {
+  display: flex;
+  margin-left: 80px;
+}
+.run12 {
+  margin: 0px 100px 1px -50px;
+}
+.run12 p {
+  font-size: 23px;
+  line-height: 70px;
+  margin-left: 130px;
+  margin-bottom: 30px;
+  margin-top: -12px;
+}
+.run12 h6 {
+  font-size: 30px;
+  margin: 20px 0 0 30px;
+  line-height: 30.5px;
+}
+.google,
+.search,
+.paid,
+.facebook,
+.instagram,
+.snapchat {
+  margin: 129px 87px 40px 70px;
+}
+.google h6,
+.search h6,
+.paid h6,
+.snapchat h6,
+.instagram h6,
+.facebook h6 {
+  position: absolute;
+  font-size: 270px;
+  opacity: 6%;
+  margin-top: -70px;
+}
+.google h5,
+.search h5,
+.paid h5,
+.snapchat h5,
+.instagram h5,
+.facebook h5 {
+  font-size: 48px;
+  word-spacing: 1px;
+}
+.google p,
+.search p,
+.paid p,
+.snapchat p,
+.instagram p,
+.facebook p {
+  font-size: 17px;
+  line-height: 120%;
+  margin: -40px 0 0 0;
+}
+.link1,
+.link2 {
+  display: flex;
+}
+.linkedit2 {
+  margin: 80px 0px;
+  background-color: #cccccc1f;
+  padding: 40px 0px;
+}
+
+.link123 {
+  margin-left: 100px;
+}
+.link20 p {
+  text-align: center;
+  font-size: 60px;
+  margin: 0px 380px 30px 380px;
+}
+.link20 h6 {
+  text-align: center;
+  font-size: 16px;
+  color: #ccc;
+  margin: 0px 500px;
+}
+
+.link21 {
+  display: flex;
+  justify-content: center;
+}
+.link22 {
+  display: flex;
+  justify-content: center;
+}
+.link21 img {
+  margin: 50px -117px 0px 143px;
+  box-shadow: 0 30px 65px 0 rgb(25 25 25 / 27%);
+  width: 360px;
+}
+.link22 img {
+  margin: 20px -117px 0px 143px;
+  box-shadow: 0 30px 65px 0 rgb(25 25 25 / 27%);
+  width: 360px;
+}
+
+.rate1 p {
+  font-size: 65px;
+  text-align: center;
+  margin: 0 380px;
+}
+.rate1 h6 {
+  font-size: 20px;
+  text-align: center;
+  margin: 50px 420px;
+}
+.link21 img:hover {
+  color: #fff;
+}
+.amt {
+  display: flex;
+  justify-content: center;
+}
+.rate {
+  text-align: center;
+}
+.rate123 {
+  display: inline-flex;
+  margin: 60px 0px;
+}
+.rate2 {
+  text-align: center;
+  margin: 0px 10px;
+}
+.rate21 {
+  margin: 0px 35px;
+}
+.rate1234 h6 {
+  color: orangered;
+}
+.rate12345 h6 {
+  color: rgb(25, 29, 233);
+}
+.amt h6 {
+  font-size: 44px;
+  margin: 30px 3px 29px 10px;
+}
+.amt h5 {
+  font-size: 70px;
+  margin: 5px 0px 0px 5px;
+}
+.amt h4 {
+  margin: 30px 0 0 2px;
+  font-size: 45px;
+}
+.rate2 h6 {
+  margin: 30px 0px 0px 0px;
+  font-size: 40px;
+}
+.rate3 h6 {
+  margin: 30px 0px 0px 0px;
+  font-size: 40px;
+}
+.rate2 h1,
+.rate3 h1 {
+  font-size: 30px;
+}
+.rate2 p {
+  text-decoration: line-through;
+  font-size: 30px;
+}
+.rate3 h3 {
+  margin: 53px 0px 0px 0px;
+}
+.rate3 p {
+  text-decoration: line-through;
+  font-size: 30px;
+}
+.rate2 h3,
+.rate3 h3 {
+  font-size: 30px;
+}
+.rate2 {
+  background-color: rgb(95, 124, 150);
+  padding: 10px 60px;
+  border-radius: 20px;
+}
+.rate3 {
+  background-color: #c96a1d;
+  text-align: center;
+  padding: 10px 90px;
+  border-radius: 20px;
+  color: #ffffff;
+  margin: -50px 0;
+}
+.rate22 {
+  margin: 0px 0px;
+}
+.order button {
+  font-size: 25px;
+  padding: 20px 30px;
+  border-radius: 50px;
+}
